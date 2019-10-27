@@ -1,0 +1,34 @@
+bu durumlar gelişince üretim gücü artıyor, bu sayede kalıteli ve ucuz üretiyon. Kaliteli ucuz olunca malı satıyorsun, döviz kazanıyorsun. Döviz bollaştıkça yerli para değer kazanıyor.
+
+fransa-almanya-ingiltere-amerika-turkiye-japonya(çin mecbur çünkü büyük(rusya-çin convertible değil))(investing)
+gerçek enflasyon için zamları internetten
+ -istanbul, ankara, izmir ticaret odalarının ve ISMEK aylık enflesyan internetten al
+ -temel tüketim malzemeleri, temel üretim maddeleri
+ -merkez bankası ile karşılaştır, aradaki fark büyükse hukuki güvenlik az
+	örn; hata payı 10(merkez 9 program 40 o zaman tutarsız ve hukuk güvenliği 0.1 vb.)
+
+iç-dış borç,
+borsada ki ev,araba,demirbaş malzemeleri(merkezbankasının sayfasında bilgiler var),
+açıklar, 
+	1-bütçe, 
+	2-ithalat-ihracat arası açık(cari açık), 
+	3-enflasyon durumu(üretim yüksekse düşer)
+mevsimsellik(yaz düşer(turist,tarım), kış yükselir(yakıt))
+iç-dış siyaset, (gerginlik-kriz)
+	borsa düşerse gergin, devletin tahvil'e verdiği fazi artıyorsa döviz yükselcek ve dış siyaset kötü, (investing'de var) (2-10 yıl gibi, hazine garantili, yatırım fonu)
+üretim, üretim ve tüketim dengesi,
+tasarruf ve yatırım miktarları,
+enerji ve hammade zenginliği,
+beşeri sermaye kalitesi,
+bilim ve teknoloji seviyesi,
+isConvertible(yasada yok-fiilen var, döviz düşürmek için)
+hukuksal güvenceler (çıkarımsal)
+CDS(ülkenin risk birimi-gösterge) LIBOR(ingiltere borç verme faiz)
+	örn; cds-5, libor-3, yıllık 8 faizle kredi alabiliyorsun.
+milli gelir (kişi başı) miltarının değişimi (gini katsayısı)
+ülkelerin merkez bankalarının verdiği faiz oranı
+
+gibi gerçek hayat bilgileri veri olarak internetten çekicek(doğrudan-dolaylı etki)(ağırlık)
+yapay zeka elementler ile bu bilgileri değerlendirecek
+değerlendirme sonucu fuzzy logic değeri çıkartıcak(0 sat - 1 al)
+bu çıkan değere göre dövizin alınıp satılması tavsiyesi yapılacak, tutarlı olursa bot'da yazarım uygulamaya
